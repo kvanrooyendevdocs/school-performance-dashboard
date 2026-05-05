@@ -137,3 +137,11 @@ Subject performance is mostly stable across terms, with small changes between Te
 ### Term Trends
 ![Term Trends](reports/term_trends.png)
 
+SQL Analysis Layer
+
+01_row_counts.sql
+02_subject_performance.sql
+03_learner_support.sql
+04_class_performance_attendance.sql
+05_subject_trends.sql
+
