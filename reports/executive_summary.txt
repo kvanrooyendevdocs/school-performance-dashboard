@@ -1,0 +1,29 @@
+
+School Performance Analytics - Executive Summary
+
+1. Overall learner support:
+learner_status
+On Track                     244
+Attendance Support Needed     53
+Academic Support Needed        3
+
+2. Lowest-performing subject:
+Physical Science has the lowest average mark at 57.2%.
+
+3. Highest-performing subject:
+English has the highest average mark at 67.4%.
+
+4. Lowest-performing class:
+8C has the lowest average mark at 61.2%, with an average attendance rate of 88.1%.
+
+5. Biggest subject decline from Term 1 to Term 4:
+History changed by -1.0 percentage points.
+
+6. Biggest subject improvement from Term 1 to Term 4:
+Physical Science improved by 1.0 percentage points.
+
+Recommended next steps:
+- Investigate subjects with low average marks, especially Physical Science and Mathematics.
+- Review classes that show both lower marks and lower attendance.
+- Prioritise attendance support for learners marked as Attendance Support Needed.
+- Use term trend data to monitor subjects that are declining over time.

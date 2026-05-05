@@ -1,0 +1,37 @@
+subject,term,average_mark,lowest_mark,highest_mark,number_of_marks
+Accounting,1,61.2,38,86,135
+Accounting,2,61.2,37,88,135
+Accounting,3,62.1,36,90,135
+Accounting,4,61.4,37,87,135
+Afrikaans,1,64.5,39,93,300
+Afrikaans,2,64.1,37,91,300
+Afrikaans,3,64.6,37,92,300
+Afrikaans,4,64.9,37,92,300
+English,1,67.5,40,94,300
+English,2,67.4,39,94,300
+English,3,67.4,39,94,300
+English,4,67.3,39,95,300
+Geography,1,66.2,40,93,168
+Geography,2,65.7,40,92,168
+Geography,3,66.2,42,94,168
+Geography,4,66.1,42,93,168
+History,1,67.5,44,96,160
+History,2,67.0,43,95,160
+History,3,66.8,40,95,160
+History,4,66.5,43,91,160
+Information Technology,1,59.5,36,88,134
+Information Technology,2,60.1,35,87,134
+Information Technology,3,59.5,36,88,134
+Information Technology,4,60.5,37,90,134
+Life Science,1,67.2,40,91,143
+Life Science,2,67.1,38,94,143
+Life Science,3,67.2,40,91,143
+Life Science,4,66.4,41,94,143
+Mathematics,1,59.2,32,87,300
+Mathematics,2,59.7,33,87,300
+Mathematics,3,59.6,34,86,300
+Mathematics,4,59.2,32,88,300
+Physical Science,1,56.9,33,86,160
+Physical Science,2,57.2,30,86,160
+Physical Science,3,57.0,31,84,160
+Physical Science,4,57.9,30,84,160

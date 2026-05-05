@@ -1,0 +1,1801 @@
+enrolment_id,learner_id,subject,teacher_id
+1,1,English,6
+2,1,Afrikaans,8
+3,1,Mathematics,2
+4,1,Life Science,14
+5,1,Geography,21
+6,1,Accounting,25
+7,2,English,6
+8,2,Afrikaans,8
+9,2,Mathematics,1
+10,2,History,17
+11,2,Geography,19
+12,2,Information Technology,22
+13,3,English,4
+14,3,Afrikaans,8
+15,3,Mathematics,3
+16,3,Physical Science,12
+17,3,Geography,21
+18,3,History,16
+19,4,English,4
+20,4,Afrikaans,7
+21,4,Mathematics,3
+22,4,Accounting,25
+23,4,Geography,21
+24,4,Life Science,13
+25,5,English,5
+26,5,Afrikaans,7
+27,5,Mathematics,2
+28,5,Geography,19
+29,5,Life Science,15
+30,5,Physical Science,11
+31,6,English,6
+32,6,Afrikaans,9
+33,6,Mathematics,1
+34,6,Geography,19
+35,6,Information Technology,24
+36,6,Physical Science,10
+37,7,English,6
+38,7,Afrikaans,7
+39,7,Mathematics,3
+40,7,Physical Science,12
+41,7,Geography,21
+42,7,Life Science,15
+43,8,English,6
+44,8,Afrikaans,8
+45,8,Mathematics,2
+46,8,Geography,19
+47,8,Life Science,15
+48,8,Physical Science,10
+49,9,English,5
+50,9,Afrikaans,9
+51,9,Mathematics,1
+52,9,History,18
+53,9,Geography,20
+54,9,Accounting,26
+55,10,English,4
+56,10,Afrikaans,7
+57,10,Mathematics,2
+58,10,Life Science,14
+59,10,Geography,20
+60,10,History,17
+61,11,English,6
+62,11,Afrikaans,7
+63,11,Mathematics,3
+64,11,History,18
+65,11,Geography,19
+66,11,Accounting,26
+67,12,English,4
+68,12,Afrikaans,7
+69,12,Mathematics,2
+70,12,Geography,19
+71,12,History,16
+72,12,Physical Science,10
+73,13,English,5
+74,13,Afrikaans,9
+75,13,Mathematics,3
+76,13,Geography,20
+77,13,Physical Science,11
+78,13,Information Technology,23
+79,14,English,4
+80,14,Afrikaans,7
+81,14,Mathematics,2
+82,14,History,16
+83,14,Life Science,15
+84,14,Physical Science,10
+85,15,English,6
+86,15,Afrikaans,8
+87,15,Mathematics,2
+88,15,Accounting,26
+89,15,Physical Science,12
+90,15,Information Technology,23
+91,16,English,5
+92,16,Afrikaans,8
+93,16,Mathematics,1
+94,16,Life Science,13
+95,16,Accounting,25
+96,16,Physical Science,10
+97,17,English,6
+98,17,Afrikaans,8
+99,17,Mathematics,3
+100,17,Information Technology,22
+101,17,Life Science,13
+102,17,Accounting,25
+103,18,English,5
+104,18,Afrikaans,9
+105,18,Mathematics,2
+106,18,Life Science,15
+107,18,Geography,21
+108,18,Physical Science,10
+109,19,English,4
+110,19,Afrikaans,7
+111,19,Mathematics,3
+112,19,Information Technology,24
+113,19,Life Science,13
+114,19,Geography,20
+115,20,English,5
+116,20,Afrikaans,9
+117,20,Mathematics,3
+118,20,Accounting,26
+119,20,History,16
+120,20,Information Technology,22
+121,21,English,4
+122,21,Afrikaans,7
+123,21,Mathematics,3
+124,21,Life Science,15
+125,21,Information Technology,24
+126,21,Physical Science,11
+127,22,English,4
+128,22,Afrikaans,9
+129,22,Mathematics,2
+130,22,Life Science,13
+131,22,History,18
+132,22,Physical Science,10
+133,23,English,6
+134,23,Afrikaans,8
+135,23,Mathematics,1
+136,23,Information Technology,23
+137,23,Physical Science,11
+138,23,History,18
+139,24,English,4
+140,24,Afrikaans,9
+141,24,Mathematics,2
+142,24,Information Technology,22
+143,24,Geography,19
+144,24,Accounting,26
+145,25,English,4
+146,25,Afrikaans,9
+147,25,Mathematics,3
+148,25,Accounting,27
+149,25,Life Science,14
+150,25,Physical Science,12
+151,26,English,5
+152,26,Afrikaans,9
+153,26,Mathematics,1
+154,26,Information Technology,24
+155,26,Life Science,14
+156,26,Physical Science,10
+157,27,English,4
+158,27,Afrikaans,7
+159,27,Mathematics,3
+160,27,Accounting,26
+161,27,History,18
+162,27,Physical Science,12
+163,28,English,4
+164,28,Afrikaans,8
+165,28,Mathematics,1
+166,28,Information Technology,23
+167,28,Physical Science,12
+168,28,History,17
+169,29,English,6
+170,29,Afrikaans,8
+171,29,Mathematics,2
+172,29,Information Technology,22
+173,29,Geography,21
+174,29,History,17
+175,30,English,6
+176,30,Afrikaans,9
+177,30,Mathematics,2
+178,30,Physical Science,10
+179,30,Information Technology,23
+180,30,History,16
+181,31,English,6
+182,31,Afrikaans,9
+183,31,Mathematics,3
+184,31,Physical Science,10
+185,31,Geography,20
+186,31,Information Technology,24
+187,32,English,6
+188,32,Afrikaans,9
+189,32,Mathematics,3
+190,32,Physical Science,12
+191,32,Geography,19
+192,32,History,16
+193,33,English,4
+194,33,Afrikaans,8
+195,33,Mathematics,3
+196,33,Accounting,27
+197,33,Geography,20
+198,33,Life Science,15
+199,34,English,5
+200,34,Afrikaans,9
+201,34,Mathematics,1
+202,34,Geography,21
+203,34,Life Science,15
+204,34,History,16
+205,35,English,4
+206,35,Afrikaans,7
+207,35,Mathematics,3
+208,35,Information Technology,22
+209,35,Accounting,26
+210,35,Geography,19
+211,36,English,5
+212,36,Afrikaans,7
+213,36,Mathematics,3
+214,36,Geography,20
+215,36,Accounting,25
+216,36,History,16
+217,37,English,6
+218,37,Afrikaans,8
+219,37,Mathematics,2
+220,37,History,17
+221,37,Life Science,15
+222,37,Physical Science,11
+223,38,English,6
+224,38,Afrikaans,7
+225,38,Mathematics,1
+226,38,History,16
+227,38,Geography,19
+228,38,Life Science,15
+229,39,English,5
+230,39,Afrikaans,8
+231,39,Mathematics,3
+232,39,Geography,21
+233,39,Information Technology,24
+234,39,Accounting,26
+235,40,English,5
+236,40,Afrikaans,9
+237,40,Mathematics,3
+238,40,History,18
+239,40,Physical Science,12
+240,40,Geography,19
+241,41,English,4
+242,41,Afrikaans,8
+243,41,Mathematics,2
+244,41,History,18
+245,41,Life Science,15
+246,41,Geography,21
+247,42,English,4
+248,42,Afrikaans,9
+249,42,Mathematics,1
+250,42,Life Science,13
+251,42,History,17
+252,42,Information Technology,23
+253,43,English,4
+254,43,Afrikaans,9
+255,43,Mathematics,3
+256,43,History,16
+257,43,Accounting,25
+258,43,Information Technology,22
+259,44,English,5
+260,44,Afrikaans,7
+261,44,Mathematics,3
+262,44,Information Technology,23
+263,44,Physical Science,12
+264,44,Life Science,14
+265,45,English,5
+266,45,Afrikaans,8
+267,45,Mathematics,2
+268,45,Physical Science,11
+269,45,Life Science,13
+270,45,Geography,20
+271,46,English,4
+272,46,Afrikaans,8
+273,46,Mathematics,1
+274,46,Geography,20
+275,46,Information Technology,24
+276,46,Life Science,13
+277,47,English,6
+278,47,Afrikaans,7
+279,47,Mathematics,1
+280,47,Accounting,27
+281,47,Geography,21
+282,47,Information Technology,22
+283,48,English,5
+284,48,Afrikaans,8
+285,48,Mathematics,2
+286,48,Geography,19
+287,48,Physical Science,10
+288,48,Information Technology,24
+289,49,English,5
+290,49,Afrikaans,8
+291,49,Mathematics,2
+292,49,History,18
+293,49,Life Science,15
+294,49,Geography,21
+295,50,English,5
+296,50,Afrikaans,8
+297,50,Mathematics,3
+298,50,Accounting,25
+299,50,Life Science,14
+300,50,History,18
+301,51,English,6
+302,51,Afrikaans,9
+303,51,Mathematics,2
+304,51,Accounting,27
+305,51,Information Technology,24
+306,51,History,16
+307,52,English,4
+308,52,Afrikaans,7
+309,52,Mathematics,1
+310,52,Geography,19
+311,52,Information Technology,23
+312,52,History,17
+313,53,English,5
+314,53,Afrikaans,9
+315,53,Mathematics,3
+316,53,Geography,19
+317,53,Information Technology,23
+318,53,History,18
+319,54,English,4
+320,54,Afrikaans,7
+321,54,Mathematics,2
+322,54,History,16
+323,54,Geography,21
+324,54,Accounting,27
+325,55,English,4
+326,55,Afrikaans,8
+327,55,Mathematics,3
+328,55,History,17
+329,55,Accounting,26
+330,55,Life Science,14
+331,56,English,4
+332,56,Afrikaans,9
+333,56,Mathematics,2
+334,56,Physical Science,10
+335,56,Life Science,13
+336,56,History,17
+337,57,English,5
+338,57,Afrikaans,7
+339,57,Mathematics,2
+340,57,Physical Science,10
+341,57,Information Technology,22
+342,57,Life Science,14
+343,58,English,5
+344,58,Afrikaans,9
+345,58,Mathematics,1
+346,58,Life Science,13
+347,58,Accounting,26
+348,58,Geography,19
+349,59,English,5
+350,59,Afrikaans,8
+351,59,Mathematics,3
+352,59,History,17
+353,59,Information Technology,24
+354,59,Accounting,25
+355,60,English,6
+356,60,Afrikaans,8
+357,60,Mathematics,2
+358,60,Physical Science,12
+359,60,Life Science,13
+360,60,History,18
+361,61,English,4
+362,61,Afrikaans,9
+363,61,Mathematics,1
+364,61,Life Science,13
+365,61,History,17
+366,61,Accounting,25
+367,62,English,4
+368,62,Afrikaans,9
+369,62,Mathematics,2
+370,62,History,18
+371,62,Physical Science,10
+372,62,Life Science,14
+373,63,English,6
+374,63,Afrikaans,8
+375,63,Mathematics,2
+376,63,History,18
+377,63,Physical Science,11
+378,63,Information Technology,23
+379,64,English,5
+380,64,Afrikaans,8
+381,64,Mathematics,1
+382,64,Information Technology,23
+383,64,History,16
+384,64,Life Science,15
+385,65,English,4
+386,65,Afrikaans,8
+387,65,Mathematics,3
+388,65,Accounting,25
+389,65,Geography,20
+390,65,Physical Science,11
+391,66,English,5
+392,66,Afrikaans,9
+393,66,Mathematics,1
+394,66,Physical Science,10
+395,66,Information Technology,24
+396,66,History,18
+397,67,English,6
+398,67,Afrikaans,7
+399,67,Mathematics,1
+400,67,Geography,21
+401,67,Accounting,26
+402,67,Information Technology,22
+403,68,English,4
+404,68,Afrikaans,7
+405,68,Mathematics,1
+406,68,History,17
+407,68,Life Science,13
+408,68,Physical Science,12
+409,69,English,4
+410,69,Afrikaans,7
+411,69,Mathematics,2
+412,69,History,18
+413,69,Geography,19
+414,69,Physical Science,12
+415,70,English,4
+416,70,Afrikaans,9
+417,70,Mathematics,1
+418,70,Physical Science,10
+419,70,Geography,21
+420,70,Information Technology,24
+421,71,English,6
+422,71,Afrikaans,7
+423,71,Mathematics,1
+424,71,Physical Science,11
+425,71,Information Technology,24
+426,71,Accounting,25
+427,72,English,5
+428,72,Afrikaans,7
+429,72,Mathematics,3
+430,72,Life Science,13
+431,72,Accounting,25
+432,72,History,18
+433,73,English,5
+434,73,Afrikaans,7
+435,73,Mathematics,2
+436,73,Physical Science,12
+437,73,Life Science,13
+438,73,Accounting,26
+439,74,English,6
+440,74,Afrikaans,9
+441,74,Mathematics,3
+442,74,Information Technology,24
+443,74,Geography,19
+444,74,Life Science,14
+445,75,English,6
+446,75,Afrikaans,8
+447,75,Mathematics,3
+448,75,Information Technology,24
+449,75,Geography,19
+450,75,Accounting,25
+451,76,English,4
+452,76,Afrikaans,8
+453,76,Mathematics,3
+454,76,Geography,19
+455,76,History,17
+456,76,Accounting,26
+457,77,English,6
+458,77,Afrikaans,8
+459,77,Mathematics,2
+460,77,History,17
+461,77,Information Technology,23
+462,77,Physical Science,12
+463,78,English,4
+464,78,Afrikaans,8
+465,78,Mathematics,1
+466,78,Information Technology,24
+467,78,Physical Science,12
+468,78,Life Science,15
+469,79,English,4
+470,79,Afrikaans,9
+471,79,Mathematics,2
+472,79,Accounting,25
+473,79,Life Science,15
+474,79,History,17
+475,80,English,5
+476,80,Afrikaans,8
+477,80,Mathematics,1
+478,80,Accounting,27
+479,80,Physical Science,12
+480,80,Life Science,14
+481,81,English,6
+482,81,Afrikaans,7
+483,81,Mathematics,1
+484,81,Life Science,14
+485,81,Accounting,25
+486,81,Physical Science,11
+487,82,English,5
+488,82,Afrikaans,8
+489,82,Mathematics,2
+490,82,Life Science,14
+491,82,Physical Science,11
+492,82,Geography,19
+493,83,English,4
+494,83,Afrikaans,7
+495,83,Mathematics,1
+496,83,Geography,19
+497,83,Information Technology,24
+498,83,Accounting,27
+499,84,English,4
+500,84,Afrikaans,9
+501,84,Mathematics,1
+502,84,History,17
+503,84,Physical Science,11
+504,84,Life Science,13
+505,85,English,6
+506,85,Afrikaans,7
+507,85,Mathematics,3
+508,85,History,16
+509,85,Accounting,26
+510,85,Geography,20
+511,86,English,4
+512,86,Afrikaans,8
+513,86,Mathematics,1
+514,86,Physical Science,11
+515,86,Life Science,13
+516,86,History,17
+517,87,English,4
+518,87,Afrikaans,7
+519,87,Mathematics,3
+520,87,Accounting,25
+521,87,Information Technology,24
+522,87,Life Science,15
+523,88,English,6
+524,88,Afrikaans,8
+525,88,Mathematics,2
+526,88,Geography,20
+527,88,Physical Science,10
+528,88,Life Science,15
+529,89,English,6
+530,89,Afrikaans,9
+531,89,Mathematics,1
+532,89,Accounting,26
+533,89,Life Science,15
+534,89,History,17
+535,90,English,5
+536,90,Afrikaans,9
+537,90,Mathematics,3
+538,90,Life Science,13
+539,90,Physical Science,12
+540,90,Information Technology,22
+541,91,English,5
+542,91,Afrikaans,8
+543,91,Mathematics,1
+544,91,Life Science,15
+545,91,History,18
+546,91,Information Technology,24
+547,92,English,4
+548,92,Afrikaans,9
+549,92,Mathematics,2
+550,92,Geography,20
+551,92,Physical Science,10
+552,92,Accounting,27
+553,93,English,4
+554,93,Afrikaans,8
+555,93,Mathematics,3
+556,93,Accounting,26
+557,93,History,17
+558,93,Geography,19
+559,94,English,6
+560,94,Afrikaans,9
+561,94,Mathematics,1
+562,94,History,18
+563,94,Information Technology,23
+564,94,Geography,21
+565,95,English,6
+566,95,Afrikaans,7
+567,95,Mathematics,3
+568,95,Geography,19
+569,95,Physical Science,11
+570,95,Information Technology,22
+571,96,English,6
+572,96,Afrikaans,8
+573,96,Mathematics,1
+574,96,Geography,19
+575,96,History,17
+576,96,Information Technology,23
+577,97,English,4
+578,97,Afrikaans,8
+579,97,Mathematics,3
+580,97,Physical Science,11
+581,97,Accounting,26
+582,97,Life Science,13
+583,98,English,5
+584,98,Afrikaans,9
+585,98,Mathematics,3
+586,98,Accounting,26
+587,98,Information Technology,24
+588,98,Physical Science,10
+589,99,English,6
+590,99,Afrikaans,9
+591,99,Mathematics,3
+592,99,Accounting,27
+593,99,History,18
+594,99,Physical Science,11
+595,100,English,5
+596,100,Afrikaans,7
+597,100,Mathematics,1
+598,100,Life Science,13
+599,100,Geography,21
+600,100,Information Technology,23
+601,101,English,6
+602,101,Afrikaans,7
+603,101,Mathematics,2
+604,101,History,17
+605,101,Life Science,15
+606,101,Geography,21
+607,102,English,5
+608,102,Afrikaans,7
+609,102,Mathematics,3
+610,102,Accounting,27
+611,102,Geography,20
+612,102,Physical Science,10
+613,103,English,6
+614,103,Afrikaans,9
+615,103,Mathematics,1
+616,103,Geography,19
+617,103,History,18
+618,103,Accounting,26
+619,104,English,5
+620,104,Afrikaans,9
+621,104,Mathematics,1
+622,104,History,17
+623,104,Accounting,26
+624,104,Physical Science,10
+625,105,English,6
+626,105,Afrikaans,8
+627,105,Mathematics,2
+628,105,Life Science,13
+629,105,History,17
+630,105,Geography,19
+631,106,English,5
+632,106,Afrikaans,7
+633,106,Mathematics,1
+634,106,Accounting,26
+635,106,Geography,21
+636,106,History,16
+637,107,English,6
+638,107,Afrikaans,8
+639,107,Mathematics,3
+640,107,Accounting,27
+641,107,Geography,21
+642,107,Physical Science,10
+643,108,English,5
+644,108,Afrikaans,7
+645,108,Mathematics,2
+646,108,Geography,19
+647,108,Physical Science,12
+648,108,History,16
+649,109,English,5
+650,109,Afrikaans,9
+651,109,Mathematics,1
+652,109,History,18
+653,109,Accounting,26
+654,109,Physical Science,10
+655,110,English,6
+656,110,Afrikaans,9
+657,110,Mathematics,1
+658,110,Geography,21
+659,110,Information Technology,24
+660,110,Physical Science,10
+661,111,English,5
+662,111,Afrikaans,7
+663,111,Mathematics,3
+664,111,Accounting,26
+665,111,Information Technology,23
+666,111,Geography,21
+667,112,English,4
+668,112,Afrikaans,7
+669,112,Mathematics,1
+670,112,Geography,21
+671,112,Physical Science,11
+672,112,Life Science,15
+673,113,English,5
+674,113,Afrikaans,8
+675,113,Mathematics,2
+676,113,Information Technology,22
+677,113,History,17
+678,113,Geography,20
+679,114,English,5
+680,114,Afrikaans,7
+681,114,Mathematics,1
+682,114,Accounting,25
+683,114,Geography,19
+684,114,Physical Science,12
+685,115,English,4
+686,115,Afrikaans,7
+687,115,Mathematics,3
+688,115,Life Science,13
+689,115,History,18
+690,115,Accounting,26
+691,116,English,4
+692,116,Afrikaans,9
+693,116,Mathematics,1
+694,116,History,18
+695,116,Geography,19
+696,116,Information Technology,23
+697,117,English,5
+698,117,Afrikaans,7
+699,117,Mathematics,3
+700,117,Physical Science,10
+701,117,Accounting,26
+702,117,Life Science,13
+703,118,English,4
+704,118,Afrikaans,9
+705,118,Mathematics,1
+706,118,Accounting,25
+707,118,Life Science,15
+708,118,History,18
+709,119,English,5
+710,119,Afrikaans,7
+711,119,Mathematics,3
+712,119,Information Technology,24
+713,119,Physical Science,12
+714,119,Geography,20
+715,120,English,6
+716,120,Afrikaans,9
+717,120,Mathematics,3
+718,120,Physical Science,12
+719,120,Life Science,14
+720,120,Accounting,27
+721,121,English,5
+722,121,Afrikaans,9
+723,121,Mathematics,2
+724,121,Geography,21
+725,121,Physical Science,10
+726,121,Life Science,13
+727,122,English,4
+728,122,Afrikaans,7
+729,122,Mathematics,2
+730,122,Geography,19
+731,122,History,16
+732,122,Information Technology,23
+733,123,English,4
+734,123,Afrikaans,9
+735,123,Mathematics,1
+736,123,Geography,19
+737,123,Accounting,27
+738,123,Information Technology,22
+739,124,English,5
+740,124,Afrikaans,9
+741,124,Mathematics,1
+742,124,Life Science,14
+743,124,Geography,19
+744,124,Accounting,25
+745,125,English,4
+746,125,Afrikaans,8
+747,125,Mathematics,2
+748,125,Geography,21
+749,125,Life Science,13
+750,125,Information Technology,23
+751,126,English,4
+752,126,Afrikaans,8
+753,126,Mathematics,1
+754,126,Physical Science,12
+755,126,History,17
+756,126,Geography,21
+757,127,English,6
+758,127,Afrikaans,8
+759,127,Mathematics,1
+760,127,History,16
+761,127,Information Technology,24
+762,127,Accounting,26
+763,128,English,4
+764,128,Afrikaans,7
+765,128,Mathematics,1
+766,128,Physical Science,10
+767,128,History,16
+768,128,Information Technology,24
+769,129,English,6
+770,129,Afrikaans,7
+771,129,Mathematics,2
+772,129,Information Technology,24
+773,129,Accounting,27
+774,129,Geography,19
+775,130,English,4
+776,130,Afrikaans,8
+777,130,Mathematics,3
+778,130,Life Science,14
+779,130,Geography,21
+780,130,Information Technology,24
+781,131,English,6
+782,131,Afrikaans,8
+783,131,Mathematics,2
+784,131,History,18
+785,131,Accounting,26
+786,131,Geography,21
+787,132,English,6
+788,132,Afrikaans,7
+789,132,Mathematics,2
+790,132,Geography,19
+791,132,History,18
+792,132,Life Science,14
+793,133,English,4
+794,133,Afrikaans,9
+795,133,Mathematics,3
+796,133,Accounting,27
+797,133,Life Science,15
+798,133,Geography,19
+799,134,English,4
+800,134,Afrikaans,7
+801,134,Mathematics,1
+802,134,Life Science,13
+803,134,Geography,20
+804,134,Physical Science,10
+805,135,English,4
+806,135,Afrikaans,8
+807,135,Mathematics,1
+808,135,History,17
+809,135,Geography,20
+810,135,Information Technology,22
+811,136,English,4
+812,136,Afrikaans,9
+813,136,Mathematics,2
+814,136,Geography,21
+815,136,Life Science,15
+816,136,Accounting,25
+817,137,English,5
+818,137,Afrikaans,7
+819,137,Mathematics,3
+820,137,Physical Science,12
+821,137,Life Science,13
+822,137,History,16
+823,138,English,5
+824,138,Afrikaans,7
+825,138,Mathematics,1
+826,138,Physical Science,12
+827,138,Geography,19
+828,138,Accounting,26
+829,139,English,5
+830,139,Afrikaans,7
+831,139,Mathematics,3
+832,139,Information Technology,23
+833,139,Geography,21
+834,139,Physical Science,11
+835,140,English,4
+836,140,Afrikaans,9
+837,140,Mathematics,3
+838,140,Accounting,26
+839,140,Life Science,15
+840,140,Geography,20
+841,141,English,5
+842,141,Afrikaans,7
+843,141,Mathematics,3
+844,141,Accounting,26
+845,141,Life Science,15
+846,141,Physical Science,10
+847,142,English,4
+848,142,Afrikaans,9
+849,142,Mathematics,2
+850,142,Geography,21
+851,142,History,17
+852,142,Information Technology,24
+853,143,English,5
+854,143,Afrikaans,9
+855,143,Mathematics,2
+856,143,Information Technology,22
+857,143,Geography,19
+858,143,Physical Science,11
+859,144,English,6
+860,144,Afrikaans,9
+861,144,Mathematics,1
+862,144,History,18
+863,144,Information Technology,22
+864,144,Geography,19
+865,145,English,6
+866,145,Afrikaans,9
+867,145,Mathematics,3
+868,145,History,18
+869,145,Geography,20
+870,145,Physical Science,12
+871,146,English,5
+872,146,Afrikaans,8
+873,146,Mathematics,3
+874,146,Information Technology,23
+875,146,Physical Science,11
+876,146,Life Science,13
+877,147,English,5
+878,147,Afrikaans,7
+879,147,Mathematics,2
+880,147,Accounting,26
+881,147,History,17
+882,147,Life Science,14
+883,148,English,6
+884,148,Afrikaans,9
+885,148,Mathematics,3
+886,148,Accounting,26
+887,148,Physical Science,12
+888,148,Geography,20
+889,149,English,4
+890,149,Afrikaans,8
+891,149,Mathematics,2
+892,149,Physical Science,12
+893,149,Accounting,27
+894,149,Geography,20
+895,150,English,5
+896,150,Afrikaans,8
+897,150,Mathematics,3
+898,150,Life Science,14
+899,150,History,16
+900,150,Physical Science,11
+901,151,English,5
+902,151,Afrikaans,8
+903,151,Mathematics,1
+904,151,Physical Science,12
+905,151,History,16
+906,151,Accounting,26
+907,152,English,5
+908,152,Afrikaans,8
+909,152,Mathematics,1
+910,152,History,16
+911,152,Accounting,25
+912,152,Information Technology,24
+913,153,English,5
+914,153,Afrikaans,9
+915,153,Mathematics,1
+916,153,Geography,21
+917,153,Life Science,14
+918,153,Information Technology,24
+919,154,English,6
+920,154,Afrikaans,8
+921,154,Mathematics,1
+922,154,Information Technology,22
+923,154,Geography,21
+924,154,Life Science,13
+925,155,English,5
+926,155,Afrikaans,9
+927,155,Mathematics,1
+928,155,Life Science,13
+929,155,Accounting,27
+930,155,Physical Science,10
+931,156,English,5
+932,156,Afrikaans,8
+933,156,Mathematics,2
+934,156,Information Technology,23
+935,156,Geography,19
+936,156,Life Science,14
+937,157,English,4
+938,157,Afrikaans,7
+939,157,Mathematics,3
+940,157,Geography,21
+941,157,Information Technology,22
+942,157,Life Science,14
+943,158,English,5
+944,158,Afrikaans,7
+945,158,Mathematics,3
+946,158,Life Science,13
+947,158,Geography,21
+948,158,History,17
+949,159,English,4
+950,159,Afrikaans,7
+951,159,Mathematics,3
+952,159,Geography,20
+953,159,History,18
+954,159,Physical Science,10
+955,160,English,4
+956,160,Afrikaans,9
+957,160,Mathematics,3
+958,160,Geography,20
+959,160,History,18
+960,160,Life Science,14
+961,161,English,6
+962,161,Afrikaans,7
+963,161,Mathematics,3
+964,161,Physical Science,11
+965,161,Geography,19
+966,161,History,18
+967,162,English,5
+968,162,Afrikaans,9
+969,162,Mathematics,3
+970,162,Information Technology,23
+971,162,History,16
+972,162,Geography,19
+973,163,English,4
+974,163,Afrikaans,9
+975,163,Mathematics,3
+976,163,Accounting,25
+977,163,History,18
+978,163,Geography,19
+979,164,English,4
+980,164,Afrikaans,9
+981,164,Mathematics,1
+982,164,History,17
+983,164,Life Science,14
+984,164,Geography,19
+985,165,English,6
+986,165,Afrikaans,7
+987,165,Mathematics,2
+988,165,Geography,20
+989,165,Physical Science,11
+990,165,Life Science,15
+991,166,English,5
+992,166,Afrikaans,8
+993,166,Mathematics,1
+994,166,Geography,19
+995,166,Information Technology,22
+996,166,History,17
+997,167,English,5
+998,167,Afrikaans,7
+999,167,Mathematics,1
+1000,167,Information Technology,22
+1001,167,History,17
+1002,167,Accounting,26
+1003,168,English,5
+1004,168,Afrikaans,9
+1005,168,Mathematics,3
+1006,168,Physical Science,12
+1007,168,Geography,21
+1008,168,History,16
+1009,169,English,4
+1010,169,Afrikaans,7
+1011,169,Mathematics,2
+1012,169,Physical Science,11
+1013,169,Information Technology,22
+1014,169,Accounting,26
+1015,170,English,4
+1016,170,Afrikaans,8
+1017,170,Mathematics,1
+1018,170,Information Technology,24
+1019,170,Geography,19
+1020,170,History,17
+1021,171,English,5
+1022,171,Afrikaans,9
+1023,171,Mathematics,1
+1024,171,Life Science,15
+1025,171,Information Technology,23
+1026,171,History,16
+1027,172,English,5
+1028,172,Afrikaans,9
+1029,172,Mathematics,3
+1030,172,Life Science,14
+1031,172,Accounting,25
+1032,172,History,18
+1033,173,English,4
+1034,173,Afrikaans,9
+1035,173,Mathematics,2
+1036,173,Accounting,27
+1037,173,Life Science,13
+1038,173,Physical Science,10
+1039,174,English,5
+1040,174,Afrikaans,9
+1041,174,Mathematics,1
+1042,174,Accounting,25
+1043,174,Physical Science,10
+1044,174,History,17
+1045,175,English,5
+1046,175,Afrikaans,8
+1047,175,Mathematics,3
+1048,175,Geography,20
+1049,175,Physical Science,11
+1050,175,History,18
+1051,176,English,5
+1052,176,Afrikaans,8
+1053,176,Mathematics,3
+1054,176,Accounting,25
+1055,176,Life Science,15
+1056,176,Physical Science,10
+1057,177,English,4
+1058,177,Afrikaans,9
+1059,177,Mathematics,1
+1060,177,History,16
+1061,177,Accounting,26
+1062,177,Geography,20
+1063,178,English,5
+1064,178,Afrikaans,7
+1065,178,Mathematics,3
+1066,178,Life Science,15
+1067,178,Accounting,26
+1068,178,Information Technology,23
+1069,179,English,6
+1070,179,Afrikaans,7
+1071,179,Mathematics,2
+1072,179,Information Technology,22
+1073,179,History,18
+1074,179,Accounting,26
+1075,180,English,6
+1076,180,Afrikaans,7
+1077,180,Mathematics,2
+1078,180,Life Science,13
+1079,180,History,18
+1080,180,Geography,19
+1081,181,English,4
+1082,181,Afrikaans,9
+1083,181,Mathematics,1
+1084,181,History,17
+1085,181,Accounting,25
+1086,181,Physical Science,10
+1087,182,English,4
+1088,182,Afrikaans,7
+1089,182,Mathematics,1
+1090,182,Geography,20
+1091,182,Physical Science,11
+1092,182,Life Science,14
+1093,183,English,6
+1094,183,Afrikaans,7
+1095,183,Mathematics,3
+1096,183,Life Science,15
+1097,183,Geography,19
+1098,183,History,18
+1099,184,English,4
+1100,184,Afrikaans,9
+1101,184,Mathematics,2
+1102,184,Physical Science,10
+1103,184,Geography,20
+1104,184,Accounting,27
+1105,185,English,5
+1106,185,Afrikaans,8
+1107,185,Mathematics,2
+1108,185,History,18
+1109,185,Information Technology,22
+1110,185,Physical Science,12
+1111,186,English,6
+1112,186,Afrikaans,8
+1113,186,Mathematics,2
+1114,186,Geography,21
+1115,186,History,17
+1116,186,Information Technology,24
+1117,187,English,4
+1118,187,Afrikaans,8
+1119,187,Mathematics,1
+1120,187,Information Technology,22
+1121,187,Geography,21
+1122,187,History,18
+1123,188,English,6
+1124,188,Afrikaans,8
+1125,188,Mathematics,1
+1126,188,Physical Science,11
+1127,188,Life Science,14
+1128,188,Geography,20
+1129,189,English,5
+1130,189,Afrikaans,7
+1131,189,Mathematics,1
+1132,189,Physical Science,12
+1133,189,Information Technology,23
+1134,189,History,18
+1135,190,English,6
+1136,190,Afrikaans,9
+1137,190,Mathematics,2
+1138,190,Information Technology,24
+1139,190,Life Science,15
+1140,190,Physical Science,12
+1141,191,English,4
+1142,191,Afrikaans,9
+1143,191,Mathematics,3
+1144,191,Accounting,26
+1145,191,Geography,21
+1146,191,History,18
+1147,192,English,6
+1148,192,Afrikaans,7
+1149,192,Mathematics,2
+1150,192,Accounting,27
+1151,192,Geography,21
+1152,192,Physical Science,12
+1153,193,English,5
+1154,193,Afrikaans,8
+1155,193,Mathematics,3
+1156,193,Life Science,15
+1157,193,Physical Science,10
+1158,193,Information Technology,24
+1159,194,English,6
+1160,194,Afrikaans,7
+1161,194,Mathematics,1
+1162,194,History,18
+1163,194,Geography,20
+1164,194,Physical Science,12
+1165,195,English,4
+1166,195,Afrikaans,7
+1167,195,Mathematics,2
+1168,195,Physical Science,10
+1169,195,Life Science,15
+1170,195,Information Technology,23
+1171,196,English,5
+1172,196,Afrikaans,8
+1173,196,Mathematics,1
+1174,196,Geography,19
+1175,196,Accounting,27
+1176,196,History,18
+1177,197,English,4
+1178,197,Afrikaans,7
+1179,197,Mathematics,3
+1180,197,Accounting,26
+1181,197,Information Technology,22
+1182,197,Geography,21
+1183,198,English,4
+1184,198,Afrikaans,8
+1185,198,Mathematics,3
+1186,198,Information Technology,23
+1187,198,Life Science,13
+1188,198,Geography,21
+1189,199,English,5
+1190,199,Afrikaans,9
+1191,199,Mathematics,1
+1192,199,Accounting,27
+1193,199,Physical Science,12
+1194,199,Geography,20
+1195,200,English,6
+1196,200,Afrikaans,8
+1197,200,Mathematics,1
+1198,200,Information Technology,22
+1199,200,Geography,21
+1200,200,History,17
+1201,201,English,5
+1202,201,Afrikaans,8
+1203,201,Mathematics,3
+1204,201,Physical Science,12
+1205,201,History,17
+1206,201,Life Science,13
+1207,202,English,6
+1208,202,Afrikaans,7
+1209,202,Mathematics,1
+1210,202,Geography,20
+1211,202,Accounting,26
+1212,202,Life Science,14
+1213,203,English,5
+1214,203,Afrikaans,8
+1215,203,Mathematics,1
+1216,203,History,17
+1217,203,Physical Science,10
+1218,203,Accounting,25
+1219,204,English,4
+1220,204,Afrikaans,7
+1221,204,Mathematics,1
+1222,204,Information Technology,22
+1223,204,History,18
+1224,204,Physical Science,11
+1225,205,English,5
+1226,205,Afrikaans,9
+1227,205,Mathematics,1
+1228,205,Geography,21
+1229,205,History,16
+1230,205,Life Science,15
+1231,206,English,4
+1232,206,Afrikaans,7
+1233,206,Mathematics,1
+1234,206,Physical Science,11
+1235,206,Geography,19
+1236,206,Accounting,26
+1237,207,English,4
+1238,207,Afrikaans,8
+1239,207,Mathematics,2
+1240,207,Accounting,27
+1241,207,Life Science,15
+1242,207,Physical Science,10
+1243,208,English,5
+1244,208,Afrikaans,9
+1245,208,Mathematics,1
+1246,208,Physical Science,11
+1247,208,History,17
+1248,208,Life Science,14
+1249,209,English,4
+1250,209,Afrikaans,8
+1251,209,Mathematics,3
+1252,209,Life Science,14
+1253,209,Information Technology,23
+1254,209,Accounting,25
+1255,210,English,6
+1256,210,Afrikaans,7
+1257,210,Mathematics,2
+1258,210,Physical Science,11
+1259,210,Information Technology,24
+1260,210,Life Science,14
+1261,211,English,5
+1262,211,Afrikaans,8
+1263,211,Mathematics,1
+1264,211,Information Technology,22
+1265,211,Life Science,14
+1266,211,Accounting,25
+1267,212,English,5
+1268,212,Afrikaans,9
+1269,212,Mathematics,3
+1270,212,History,18
+1271,212,Life Science,14
+1272,212,Physical Science,11
+1273,213,English,4
+1274,213,Afrikaans,7
+1275,213,Mathematics,2
+1276,213,History,16
+1277,213,Life Science,15
+1278,213,Information Technology,24
+1279,214,English,4
+1280,214,Afrikaans,8
+1281,214,Mathematics,1
+1282,214,Information Technology,24
+1283,214,History,17
+1284,214,Life Science,14
+1285,215,English,4
+1286,215,Afrikaans,8
+1287,215,Mathematics,2
+1288,215,Physical Science,11
+1289,215,Accounting,25
+1290,215,Life Science,13
+1291,216,English,5
+1292,216,Afrikaans,8
+1293,216,Mathematics,3
+1294,216,Physical Science,12
+1295,216,History,17
+1296,216,Life Science,14
+1297,217,English,6
+1298,217,Afrikaans,7
+1299,217,Mathematics,1
+1300,217,Information Technology,24
+1301,217,History,17
+1302,217,Physical Science,11
+1303,218,English,4
+1304,218,Afrikaans,7
+1305,218,Mathematics,1
+1306,218,Life Science,13
+1307,218,History,18
+1308,218,Physical Science,10
+1309,219,English,5
+1310,219,Afrikaans,9
+1311,219,Mathematics,1
+1312,219,Life Science,14
+1313,219,Geography,19
+1314,219,Physical Science,12
+1315,220,English,6
+1316,220,Afrikaans,8
+1317,220,Mathematics,2
+1318,220,Accounting,25
+1319,220,Physical Science,11
+1320,220,Geography,20
+1321,221,English,6
+1322,221,Afrikaans,8
+1323,221,Mathematics,3
+1324,221,Geography,19
+1325,221,History,17
+1326,221,Physical Science,12
+1327,222,English,5
+1328,222,Afrikaans,7
+1329,222,Mathematics,3
+1330,222,Geography,19
+1331,222,Information Technology,24
+1332,222,Life Science,14
+1333,223,English,6
+1334,223,Afrikaans,9
+1335,223,Mathematics,3
+1336,223,Information Technology,23
+1337,223,Physical Science,11
+1338,223,History,17
+1339,224,English,4
+1340,224,Afrikaans,8
+1341,224,Mathematics,3
+1342,224,Geography,19
+1343,224,Physical Science,12
+1344,224,Information Technology,22
+1345,225,English,6
+1346,225,Afrikaans,9
+1347,225,Mathematics,2
+1348,225,Geography,19
+1349,225,Accounting,25
+1350,225,Information Technology,22
+1351,226,English,5
+1352,226,Afrikaans,7
+1353,226,Mathematics,2
+1354,226,Accounting,25
+1355,226,Physical Science,12
+1356,226,Geography,20
+1357,227,English,6
+1358,227,Afrikaans,9
+1359,227,Mathematics,2
+1360,227,Accounting,27
+1361,227,Geography,20
+1362,227,Physical Science,10
+1363,228,English,6
+1364,228,Afrikaans,9
+1365,228,Mathematics,3
+1366,228,Physical Science,11
+1367,228,History,16
+1368,228,Life Science,14
+1369,229,English,5
+1370,229,Afrikaans,8
+1371,229,Mathematics,1
+1372,229,Physical Science,11
+1373,229,Life Science,14
+1374,229,History,18
+1375,230,English,6
+1376,230,Afrikaans,9
+1377,230,Mathematics,3
+1378,230,Information Technology,23
+1379,230,Accounting,26
+1380,230,History,16
+1381,231,English,6
+1382,231,Afrikaans,8
+1383,231,Mathematics,3
+1384,231,Geography,20
+1385,231,Information Technology,24
+1386,231,History,16
+1387,232,English,5
+1388,232,Afrikaans,9
+1389,232,Mathematics,2
+1390,232,Geography,20
+1391,232,Information Technology,24
+1392,232,Accounting,27
+1393,233,English,5
+1394,233,Afrikaans,7
+1395,233,Mathematics,3
+1396,233,Physical Science,12
+1397,233,Accounting,26
+1398,233,Life Science,15
+1399,234,English,4
+1400,234,Afrikaans,8
+1401,234,Mathematics,1
+1402,234,Geography,21
+1403,234,Accounting,25
+1404,234,Life Science,13
+1405,235,English,5
+1406,235,Afrikaans,8
+1407,235,Mathematics,2
+1408,235,Geography,21
+1409,235,History,18
+1410,235,Accounting,25
+1411,236,English,5
+1412,236,Afrikaans,9
+1413,236,Mathematics,3
+1414,236,Geography,20
+1415,236,Accounting,26
+1416,236,Physical Science,12
+1417,237,English,6
+1418,237,Afrikaans,9
+1419,237,Mathematics,1
+1420,237,History,16
+1421,237,Geography,21
+1422,237,Accounting,26
+1423,238,English,5
+1424,238,Afrikaans,9
+1425,238,Mathematics,2
+1426,238,Accounting,27
+1427,238,History,17
+1428,238,Information Technology,22
+1429,239,English,6
+1430,239,Afrikaans,7
+1431,239,Mathematics,2
+1432,239,Life Science,15
+1433,239,Geography,19
+1434,239,Physical Science,10
+1435,240,English,5
+1436,240,Afrikaans,8
+1437,240,Mathematics,1
+1438,240,Physical Science,11
+1439,240,Accounting,25
+1440,240,Information Technology,22
+1441,241,English,5
+1442,241,Afrikaans,7
+1443,241,Mathematics,3
+1444,241,Geography,20
+1445,241,Physical Science,12
+1446,241,History,17
+1447,242,English,4
+1448,242,Afrikaans,9
+1449,242,Mathematics,2
+1450,242,Life Science,15
+1451,242,Information Technology,23
+1452,242,Physical Science,11
+1453,243,English,4
+1454,243,Afrikaans,9
+1455,243,Mathematics,1
+1456,243,Information Technology,24
+1457,243,Accounting,27
+1458,243,History,18
+1459,244,English,4
+1460,244,Afrikaans,7
+1461,244,Mathematics,3
+1462,244,Accounting,27
+1463,244,Physical Science,12
+1464,244,Geography,21
+1465,245,English,5
+1466,245,Afrikaans,9
+1467,245,Mathematics,3
+1468,245,History,17
+1469,245,Geography,20
+1470,245,Physical Science,11
+1471,246,English,4
+1472,246,Afrikaans,9
+1473,246,Mathematics,1
+1474,246,History,18
+1475,246,Information Technology,22
+1476,246,Accounting,25
+1477,247,English,5
+1478,247,Afrikaans,7
+1479,247,Mathematics,3
+1480,247,History,17
+1481,247,Physical Science,10
+1482,247,Life Science,14
+1483,248,English,6
+1484,248,Afrikaans,7
+1485,248,Mathematics,1
+1486,248,Life Science,15
+1487,248,Geography,19
+1488,248,Accounting,26
+1489,249,English,4
+1490,249,Afrikaans,8
+1491,249,Mathematics,2
+1492,249,Physical Science,10
+1493,249,History,16
+1494,249,Information Technology,24
+1495,250,English,5
+1496,250,Afrikaans,7
+1497,250,Mathematics,3
+1498,250,Physical Science,10
+1499,250,History,16
+1500,250,Life Science,14
+1501,251,English,6
+1502,251,Afrikaans,7
+1503,251,Mathematics,3
+1504,251,Geography,19
+1505,251,Information Technology,24
+1506,251,Physical Science,11
+1507,252,English,4
+1508,252,Afrikaans,8
+1509,252,Mathematics,2
+1510,252,Information Technology,23
+1511,252,History,16
+1512,252,Physical Science,12
+1513,253,English,5
+1514,253,Afrikaans,8
+1515,253,Mathematics,3
+1516,253,Life Science,15
+1517,253,History,17
+1518,253,Information Technology,23
+1519,254,English,6
+1520,254,Afrikaans,8
+1521,254,Mathematics,1
+1522,254,History,17
+1523,254,Accounting,25
+1524,254,Physical Science,11
+1525,255,English,4
+1526,255,Afrikaans,8
+1527,255,Mathematics,2
+1528,255,Life Science,15
+1529,255,Accounting,25
+1530,255,Geography,19
+1531,256,English,5
+1532,256,Afrikaans,8
+1533,256,Mathematics,1
+1534,256,Physical Science,12
+1535,256,Life Science,15
+1536,256,Accounting,26
+1537,257,English,5
+1538,257,Afrikaans,8
+1539,257,Mathematics,3
+1540,257,Physical Science,12
+1541,257,Information Technology,24
+1542,257,Life Science,14
+1543,258,English,6
+1544,258,Afrikaans,8
+1545,258,Mathematics,2
+1546,258,Geography,20
+1547,258,Accounting,26
+1548,258,Information Technology,23
+1549,259,English,6
+1550,259,Afrikaans,8
+1551,259,Mathematics,1
+1552,259,History,16
+1553,259,Life Science,13
+1554,259,Accounting,25
+1555,260,English,5
+1556,260,Afrikaans,7
+1557,260,Mathematics,2
+1558,260,History,16
+1559,260,Accounting,27
+1560,260,Physical Science,12
+1561,261,English,6
+1562,261,Afrikaans,8
+1563,261,Mathematics,3
+1564,261,Physical Science,10
+1565,261,Life Science,15
+1566,261,Information Technology,22
+1567,262,English,5
+1568,262,Afrikaans,7
+1569,262,Mathematics,3
+1570,262,Information Technology,22
+1571,262,Physical Science,12
+1572,262,Accounting,27
+1573,263,English,5
+1574,263,Afrikaans,7
+1575,263,Mathematics,3
+1576,263,History,17
+1577,263,Geography,19
+1578,263,Information Technology,23
+1579,264,English,6
+1580,264,Afrikaans,7
+1581,264,Mathematics,3
+1582,264,Geography,20
+1583,264,Information Technology,23
+1584,264,Accounting,25
+1585,265,English,6
+1586,265,Afrikaans,8
+1587,265,Mathematics,1
+1588,265,Geography,20
+1589,265,History,17
+1590,265,Life Science,14
+1591,266,English,5
+1592,266,Afrikaans,9
+1593,266,Mathematics,2
+1594,266,Information Technology,24
+1595,266,Physical Science,12
+1596,266,History,17
+1597,267,English,5
+1598,267,Afrikaans,7
+1599,267,Mathematics,3
+1600,267,Geography,19
+1601,267,Physical Science,10
+1602,267,History,18
+1603,268,English,4
+1604,268,Afrikaans,9
+1605,268,Mathematics,1
+1606,268,Accounting,27
+1607,268,Information Technology,23
+1608,268,Geography,21
+1609,269,English,5
+1610,269,Afrikaans,8
+1611,269,Mathematics,2
+1612,269,Information Technology,23
+1613,269,History,17
+1614,269,Physical Science,12
+1615,270,English,6
+1616,270,Afrikaans,8
+1617,270,Mathematics,1
+1618,270,Life Science,15
+1619,270,Geography,19
+1620,270,Physical Science,12
+1621,271,English,5
+1622,271,Afrikaans,7
+1623,271,Mathematics,2
+1624,271,Physical Science,12
+1625,271,Life Science,15
+1626,271,History,18
+1627,272,English,6
+1628,272,Afrikaans,8
+1629,272,Mathematics,2
+1630,272,Life Science,13
+1631,272,Accounting,26
+1632,272,History,16
+1633,273,English,6
+1634,273,Afrikaans,7
+1635,273,Mathematics,2
+1636,273,History,18
+1637,273,Accounting,27
+1638,273,Physical Science,10
+1639,274,English,4
+1640,274,Afrikaans,7
+1641,274,Mathematics,1
+1642,274,Physical Science,11
+1643,274,Geography,21
+1644,274,Information Technology,23
+1645,275,English,6
+1646,275,Afrikaans,7
+1647,275,Mathematics,3
+1648,275,Life Science,13
+1649,275,Accounting,27
+1650,275,Geography,21
+1651,276,English,6
+1652,276,Afrikaans,7
+1653,276,Mathematics,2
+1654,276,Information Technology,23
+1655,276,Life Science,13
+1656,276,History,16
+1657,277,English,5
+1658,277,Afrikaans,7
+1659,277,Mathematics,2
+1660,277,Physical Science,10
+1661,277,Geography,21
+1662,277,Accounting,27
+1663,278,English,4
+1664,278,Afrikaans,7
+1665,278,Mathematics,2
+1666,278,Geography,20
+1667,278,Physical Science,12
+1668,278,Accounting,26
+1669,279,English,5
+1670,279,Afrikaans,9
+1671,279,Mathematics,1
+1672,279,Physical Science,11
+1673,279,History,17
+1674,279,Geography,20
+1675,280,English,4
+1676,280,Afrikaans,7
+1677,280,Mathematics,2
+1678,280,Information Technology,24
+1679,280,Geography,20
+1680,280,Accounting,26
+1681,281,English,5
+1682,281,Afrikaans,8
+1683,281,Mathematics,3
+1684,281,History,16
+1685,281,Physical Science,12
+1686,281,Geography,20
+1687,282,English,5
+1688,282,Afrikaans,8
+1689,282,Mathematics,3
+1690,282,Physical Science,12
+1691,282,History,17
+1692,282,Life Science,14
+1693,283,English,4
+1694,283,Afrikaans,9
+1695,283,Mathematics,1
+1696,283,Information Technology,24
+1697,283,Geography,19
+1698,283,History,17
+1699,284,English,5
+1700,284,Afrikaans,8
+1701,284,Mathematics,1
+1702,284,Physical Science,10
+1703,284,Geography,19
+1704,284,Accounting,27
+1705,285,English,4
+1706,285,Afrikaans,7
+1707,285,Mathematics,3
+1708,285,Life Science,14
+1709,285,Geography,21
+1710,285,Information Technology,24
+1711,286,English,6
+1712,286,Afrikaans,8
+1713,286,Mathematics,3
+1714,286,Information Technology,23
+1715,286,Physical Science,10
+1716,286,Geography,20
+1717,287,English,4
+1718,287,Afrikaans,9
+1719,287,Mathematics,3
+1720,287,History,17
+1721,287,Accounting,26
+1722,287,Life Science,15
+1723,288,English,4
+1724,288,Afrikaans,9
+1725,288,Mathematics,1
+1726,288,History,17
+1727,288,Life Science,14
+1728,288,Physical Science,12
+1729,289,English,4
+1730,289,Afrikaans,9
+1731,289,Mathematics,3
+1732,289,Information Technology,23
+1733,289,Physical Science,11
+1734,289,Life Science,13
+1735,290,English,4
+1736,290,Afrikaans,9
+1737,290,Mathematics,2
+1738,290,History,16
+1739,290,Accounting,26
+1740,290,Life Science,14
+1741,291,English,6
+1742,291,Afrikaans,9
+1743,291,Mathematics,3
+1744,291,Life Science,13
+1745,291,Physical Science,10
+1746,291,Accounting,25
+1747,292,English,4
+1748,292,Afrikaans,8
+1749,292,Mathematics,2
+1750,292,History,18
+1751,292,Life Science,15
+1752,292,Information Technology,23
+1753,293,English,6
+1754,293,Afrikaans,8
+1755,293,Mathematics,1
+1756,293,Information Technology,22
+1757,293,Life Science,13
+1758,293,Physical Science,11
+1759,294,English,6
+1760,294,Afrikaans,8
+1761,294,Mathematics,3
+1762,294,Life Science,15
+1763,294,Geography,20
+1764,294,Information Technology,22
+1765,295,English,6
+1766,295,Afrikaans,7
+1767,295,Mathematics,1
+1768,295,Information Technology,22
+1769,295,Accounting,26
+1770,295,Geography,20
+1771,296,English,6
+1772,296,Afrikaans,8
+1773,296,Mathematics,3
+1774,296,Accounting,27
+1775,296,Information Technology,23
+1776,296,History,16
+1777,297,English,4
+1778,297,Afrikaans,7
+1779,297,Mathematics,3
+1780,297,Accounting,26
+1781,297,History,18
+1782,297,Life Science,15
+1783,298,English,5
+1784,298,Afrikaans,9
+1785,298,Mathematics,2
+1786,298,Geography,21
+1787,298,Physical Science,10
+1788,298,Accounting,27
+1789,299,English,5
+1790,299,Afrikaans,7
+1791,299,Mathematics,1
+1792,299,Geography,20
+1793,299,History,16
+1794,299,Information Technology,22
+1795,300,English,4
+1796,300,Afrikaans,9
+1797,300,Mathematics,1
+1798,300,Information Technology,23
+1799,300,Physical Science,11
+1800,300,History,16

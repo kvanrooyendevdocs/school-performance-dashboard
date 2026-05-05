@@ -1,0 +1,301 @@
+learner_id,learner_name,grade,class_group,average_mark,average_attendance_rate,learner_status
+1,Stephanie Ross,8,8A,58.708333333333336,0.84975,Attendance Support Needed
+2,Zachary Hicks,10,10B,66.20833333333333,0.8975,On Track
+3,Anthony Rodriguez,9,9B,64.58333333333333,0.87225,On Track
+4,Rebecca Henderson,8,8E,69.625,0.8494999999999999,Attendance Support Needed
+5,James Ferrell,8,8E,62.666666666666664,0.90525,On Track
+6,Tricia Valencia,11,11A,64.16666666666667,0.8604999999999999,On Track
+7,Nathan Maldonado,8,8A,75.95833333333333,0.90875,On Track
+8,Debra Davidson,9,9B,66.45833333333333,0.825,Attendance Support Needed
+9,Jeffrey Chavez,12,12E,64.95833333333333,0.8634999999999999,On Track
+10,Sherri Baker,8,8E,67.625,0.8875,On Track
+11,Cassandra Gaines,9,9E,70.70833333333333,0.8385,Attendance Support Needed
+12,Elizabeth Fowler,11,11B,66.08333333333333,0.8235,Attendance Support Needed
+13,Brittany Farmer,11,11E,54.458333333333336,0.8452500000000001,Attendance Support Needed
+14,Paula Moreno,10,10A,76.625,0.84525,Attendance Support Needed
+15,Fred Smith,9,9D,62.583333333333336,0.87425,On Track
+16,Sherry Decker,10,10C,58.875,0.8665,On Track
+17,Anthony Humphrey,9,9B,64.375,0.87575,On Track
+18,Angelica Tucker,10,10A,73.54166666666667,0.87375,On Track
+19,Philip Cannon,8,8D,67.5,0.86025,On Track
+20,John Pierce,8,8C,66.04166666666667,0.8532500000000001,On Track
+21,Shane Henderson,10,10E,70.625,0.894,On Track
+22,Joshua Blair,10,10A,60.125,0.8995,On Track
+23,Eric Carney,11,11E,55.791666666666664,0.88775,On Track
+24,Jessica Holmes,8,8D,64.625,0.92775,On Track
+25,Danny Morgan,8,8E,66.54166666666667,0.91225,On Track
+26,Crystal Robinson,10,10E,55.5,0.90125,On Track
+27,Mark Perez,10,10E,62.958333333333336,0.86675,On Track
+28,Shannon Jones,9,9A,67.25,0.9105,On Track
+29,Michael Lewis,8,8B,66.33333333333333,0.87825,On Track
+30,Timothy Duncan,10,10A,60.541666666666664,0.896,On Track
+31,Richard Aguirre,9,9A,68.41666666666667,0.8412499999999999,Attendance Support Needed
+32,Brent Jordan,11,11C,63.875,0.8345,Attendance Support Needed
+33,John Daniel,11,11C,67.04166666666667,0.82675,Attendance Support Needed
+34,Victoria Garcia,9,9C,64.58333333333333,0.874,On Track
+35,Gerald Hensley,10,10B,64.16666666666667,0.8945000000000001,On Track
+36,Connor West,10,10A,64.83333333333333,0.861,On Track
+37,Donald Wright,12,12B,62.541666666666664,0.903,On Track
+38,Jessica Callahan,12,12B,72.125,0.8734999999999999,On Track
+39,Amber Kidd,9,9D,67.54166666666667,0.86475,On Track
+40,Tracy House,11,11C,67.41666666666667,0.86975,On Track
+41,Carol Tucker,12,12B,62.5,0.8415,Attendance Support Needed
+42,James Brown,10,10A,67.79166666666667,0.8815,On Track
+43,William Baker,9,9A,67.83333333333333,0.8985000000000001,On Track
+44,Jordan Henderson,10,10D,67.08333333333333,0.8472500000000001,Attendance Support Needed
+45,Whitney Peters,10,10A,70.0,0.8635,On Track
+46,Brittney Phillips,9,9E,58.583333333333336,0.887,On Track
+47,Lauren Daniels,10,10B,67.79166666666667,0.86625,On Track
+48,Amy Silva,11,11D,55.083333333333336,0.884,On Track
+49,Sarah Moore,11,11B,69.33333333333333,0.83975,Attendance Support Needed
+50,Angela Lopez,10,10B,63.416666666666664,0.8947499999999999,On Track
+51,Megan Young,9,9E,66.41666666666667,0.8605,On Track
+52,Steve Sanchez,12,12C,58.958333333333336,0.8545,On Track
+53,Lisa Barnes,12,12D,63.333333333333336,0.857,On Track
+54,Kelly Donovan,12,12D,59.291666666666664,0.851,On Track
+55,Mike Allen,10,10B,64.04166666666667,0.90175,On Track
+56,Michael Evans,9,9E,62.541666666666664,0.905,On Track
+57,Paul Jones,11,11A,57.0,0.8335,Attendance Support Needed
+58,Zachary Ferrell,8,8A,59.416666666666664,0.8255,Attendance Support Needed
+59,Daniel Baker,9,9B,49.541666666666664,0.9035,Academic Support Needed
+60,Shirley Suarez,11,11E,65.41666666666667,0.8815,On Track
+61,Christopher Bass,8,8D,64.75,0.8215,Attendance Support Needed
+62,Lisa Archer,11,11E,61.25,0.90725,On Track
+63,Aimee Montoya,11,11E,59.708333333333336,0.88125,On Track
+64,Matthew Mcmillan,10,10E,61.958333333333336,0.8755,On Track
+65,Brian Rodriguez,8,8A,51.083333333333336,0.846,Attendance Support Needed
+66,Denise Jacobs,12,12C,55.875,0.8795,On Track
+67,Christina Walters,10,10A,65.54166666666667,0.86975,On Track
+68,John Whitehead,10,10D,62.708333333333336,0.901,On Track
+69,Anna Henderson,9,9D,57.5,0.923,On Track
+70,Aaron Wise,8,8C,60.625,0.86775,On Track
+71,Deborah Figueroa,12,12B,65.125,0.88,On Track
+72,Jessica Smith,12,12A,60.125,0.88175,On Track
+73,Stephen Mckee,10,10E,62.583333333333336,0.9185,On Track
+74,Sandra Aguilar,12,12B,57.916666666666664,0.86725,On Track
+75,Cameron Parker,9,9C,60.208333333333336,0.91675,On Track
+76,Rebecca Valencia,9,9E,69.66666666666667,0.891,On Track
+77,Christine Wright,12,12A,64.70833333333333,0.95575,On Track
+78,Richard Henson,12,12C,67.45833333333333,0.84775,Attendance Support Needed
+79,Marc Moore,11,11A,64.625,0.8512500000000001,On Track
+80,Sharon Cherry,8,8C,59.541666666666664,0.9,On Track
+81,Sierra Johnson,10,10B,64.08333333333333,0.8805000000000001,On Track
+82,Evelyn Galvan,8,8B,65.33333333333333,0.85825,On Track
+83,Sharon Cochran,12,12A,65.25,0.90875,On Track
+84,Richard Rodriguez,8,8D,60.25,0.8355,Attendance Support Needed
+85,Shannon Walker,8,8E,69.75,0.89425,On Track
+86,Julia Torres,9,9B,71.58333333333333,0.91725,On Track
+87,Crystal Johnson,11,11E,56.875,0.8654999999999999,On Track
+88,Garrett Lin,9,9C,60.75,0.88075,On Track
+89,Diana May,12,12E,60.041666666666664,0.8607499999999999,On Track
+90,William Herrera,11,11B,66.83333333333333,0.88775,On Track
+91,Ashley Waller,12,12B,62.708333333333336,0.8155,Attendance Support Needed
+92,Victor Baker,10,10D,60.583333333333336,0.87075,On Track
+93,Jeffrey Chandler,10,10D,56.125,0.86575,On Track
+94,Larry Dixon,12,12D,69.79166666666667,0.9099999999999999,On Track
+95,Kenneth Scott,8,8B,59.416666666666664,0.897,On Track
+96,April Frost,9,9A,65.16666666666667,0.86975,On Track
+97,Michelle Harmon,10,10A,65.91666666666667,0.842,Attendance Support Needed
+98,Helen Jones,12,12E,62.291666666666664,0.9059999999999999,On Track
+99,Erin Edwards,9,9E,65.70833333333333,0.8685,On Track
+100,Michelle Evans,9,9A,70.29166666666667,0.89425,On Track
+101,Jason Powell,8,8A,61.291666666666664,0.84675,Attendance Support Needed
+102,Cameron Fisher,9,9A,61.833333333333336,0.881,On Track
+103,Megan Orr,8,8C,56.166666666666664,0.8425,Attendance Support Needed
+104,Elizabeth Kelley,8,8E,60.833333333333336,0.85725,On Track
+105,Dustin Jordan,9,9C,64.25,0.9485,On Track
+106,Mary Marshall,11,11B,58.5,0.86475,On Track
+107,Daniel Kennedy,12,12B,68.625,0.86025,On Track
+108,Rebecca Jackson,12,12E,71.66666666666667,0.85725,On Track
+109,Jose Schultz,11,11B,65.54166666666667,0.8975,On Track
+110,Robert Potter,11,11D,72.625,0.858,On Track
+111,Courtney Gonzalez,9,9A,60.541666666666664,0.93875,On Track
+112,David Alvarez,8,8D,71.16666666666667,0.88125,On Track
+113,Angel Perry,10,10D,60.916666666666664,0.92225,On Track
+114,Cheyenne Horton,11,11D,60.25,0.8574999999999999,On Track
+115,David Douglas Jr.,8,8A,61.875,0.87675,On Track
+116,Patricia Rodriguez,8,8D,57.75,0.90575,On Track
+117,Christopher Rubio,10,10A,52.583333333333336,0.88225,On Track
+118,Amber Wright,9,9B,71.33333333333333,0.89975,On Track
+119,Joyce Solis,9,9E,64.83333333333333,0.89025,On Track
+120,Victoria Larson,11,11B,61.291666666666664,0.88525,On Track
+121,Stephanie Salazar,11,11B,71.45833333333333,0.91075,On Track
+122,Kathy Rivas,10,10D,62.958333333333336,0.90525,On Track
+123,Stephanie Manning,9,9A,60.541666666666664,0.8652500000000001,On Track
+124,David Wright,11,11E,63.708333333333336,0.87625,On Track
+125,Pamela Boyd,8,8A,58.25,0.89825,On Track
+126,Denise Jones,12,12A,59.625,0.8705,On Track
+127,Devon Flores,8,8B,66.83333333333333,0.8485,Attendance Support Needed
+128,Brenda Hall,9,9D,63.208333333333336,0.888,On Track
+129,Michelle Brown,11,11D,67.45833333333333,0.8895,On Track
+130,Joshua Perry,9,9D,66.41666666666667,0.84575,Attendance Support Needed
+131,Jason Stein,8,8B,65.04166666666667,0.8997499999999999,On Track
+132,Melissa Gates,11,11A,72.875,0.9197500000000001,On Track
+133,Jamie Smith,11,11C,62.0,0.86625,On Track
+134,Paul Castaneda,11,11C,65.08333333333333,0.8785000000000001,On Track
+135,Jennifer Adkins,11,11E,48.125,0.93375,Academic Support Needed
+136,Lindsey Walker,11,11B,76.33333333333333,0.878,On Track
+137,Jeffrey Johnson,9,9C,67.875,0.92025,On Track
+138,Michael Powell,9,9A,61.25,0.8615,On Track
+139,John Anderson,12,12E,66.04166666666667,0.892,On Track
+140,Alyssa Long,8,8C,62.375,0.9159999999999999,On Track
+141,Alyssa Day,8,8A,59.333333333333336,0.81075,Attendance Support Needed
+142,Joel Williams,12,12D,65.58333333333333,0.8875,On Track
+143,Daniel Murphy,12,12E,65.58333333333333,0.91075,On Track
+144,Jamie Walton,9,9A,77.0,0.87775,On Track
+145,Darlene Miller,12,12A,70.41666666666667,0.87775,On Track
+146,Joshua Cooke,9,9A,60.083333333333336,0.9255,On Track
+147,Matthew Harrington,12,12A,66.16666666666667,0.84925,Attendance Support Needed
+148,Nicole Herring,9,9D,66.79166666666667,0.881,On Track
+149,Alex Hernandez,8,8E,56.125,0.85,On Track
+150,Michael Elliott,9,9E,65.83333333333333,0.87375,On Track
+151,Michael Wang,12,12A,66.33333333333333,0.9515,On Track
+152,Lawrence Adkins,12,12A,63.166666666666664,0.8795,On Track
+153,Robert Oconnell,11,11E,58.125,0.9027499999999999,On Track
+154,Alexander Collins,12,12E,62.583333333333336,0.857,On Track
+155,Tina Sanders,10,10C,65.91666666666667,0.8665,On Track
+156,Angela Vaughn,9,9C,67.33333333333333,0.8912500000000001,On Track
+157,Ashley Barton,9,9C,54.583333333333336,0.8632500000000001,On Track
+158,Lindsay Martinez,11,11B,65.83333333333333,0.9075,On Track
+159,Dr. Hannah Patterson,10,10D,63.666666666666664,0.88325,On Track
+160,Jonathan Peterson,10,10A,53.791666666666664,0.884,On Track
+161,Samantha Garcia,8,8D,66.20833333333333,0.88825,On Track
+162,Madison Poole,12,12E,62.666666666666664,0.9329999999999999,On Track
+163,Jessica Gross,8,8A,65.29166666666667,0.86525,On Track
+164,Debra Morton,12,12B,72.20833333333333,0.88925,On Track
+165,Karen Graham,12,12C,63.708333333333336,0.932,On Track
+166,Debra Christian,9,9C,64.5,0.887,On Track
+167,Angelica Keith,8,8B,68.95833333333333,0.91175,On Track
+168,John Bishop,10,10C,60.625,0.9045,On Track
+169,Allen Rosales,9,9D,61.083333333333336,0.848,Attendance Support Needed
+170,Daniel Salinas,12,12C,64.91666666666667,0.8545,On Track
+171,Spencer Haynes,12,12E,64.79166666666667,0.882,On Track
+172,Adam Vaughan,8,8E,64.375,0.8835000000000001,On Track
+173,Nathan Freeman,10,10A,70.91666666666667,0.91975,On Track
+174,Melissa Brewer,9,9C,61.208333333333336,0.80225,Attendance Support Needed
+175,Ricky Davis II,8,8A,56.791666666666664,0.83675,Attendance Support Needed
+176,Elizabeth Perkins,12,12B,59.958333333333336,0.8505,On Track
+177,Joseph Coleman,10,10C,69.125,0.888,On Track
+178,Erin Warner,12,12B,60.333333333333336,0.87025,On Track
+179,David Martinez,10,10B,66.20833333333333,0.8935,On Track
+180,Bryan Herrera,10,10E,66.29166666666667,0.871,On Track
+181,Cathy Robinson,11,11C,66.5,0.853,On Track
+182,Dr. William Warren,8,8A,70.95833333333333,0.83875,Attendance Support Needed
+183,Brian Lee,11,11C,66.54166666666667,0.902,On Track
+184,Christopher Smith,8,8A,60.625,0.9325,On Track
+185,Denise Mccann,10,10B,69.33333333333333,0.92625,On Track
+186,Melissa Martinez,10,10B,54.25,0.91825,On Track
+187,Katherine Salas,11,11E,65.41666666666667,0.88225,On Track
+188,Julie Alexander,11,11E,67.0,0.88225,On Track
+189,Anthony Everett,8,8A,61.833333333333336,0.874,On Track
+190,Rodney Morales,8,8B,60.291666666666664,0.938,On Track
+191,Mark Brown,12,12A,63.125,0.86375,On Track
+192,Justin Torres,10,10E,56.083333333333336,0.8925000000000001,On Track
+193,Bailey Duran DDS,12,12B,69.83333333333333,0.835,Attendance Support Needed
+194,Courtney Mills,11,11B,62.958333333333336,0.9165,On Track
+195,Jeremy Dalton,8,8C,58.041666666666664,0.9045,On Track
+196,Elizabeth Oliver DDS,10,10A,61.875,0.8355,Attendance Support Needed
+197,Theresa Clark,10,10B,64.08333333333333,0.8495,Attendance Support Needed
+198,Matthew Moore,9,9A,68.79166666666667,0.866,On Track
+199,Benjamin Smith,10,10E,64.08333333333333,0.83675,Attendance Support Needed
+200,Kirk Carter,11,11E,63.75,0.867,On Track
+201,Michael Warner,9,9B,61.916666666666664,0.905,On Track
+202,Michael Bradshaw,9,9B,64.08333333333333,0.8947499999999999,On Track
+203,Lori Guerrero,11,11A,72.375,0.89825,On Track
+204,Jessica Stephens,9,9C,59.75,0.876,On Track
+205,Susan Serrano,11,11B,68.45833333333333,0.88175,On Track
+206,Christopher Parker,10,10B,63.875,0.8425,Attendance Support Needed
+207,Laura Roberts,8,8D,63.166666666666664,0.852,On Track
+208,Michael Lyons,8,8D,65.70833333333333,0.87975,On Track
+209,Kathryn Snyder,9,9B,59.0,0.89725,On Track
+210,Andrew Reynolds,11,11C,68.25,0.841,Attendance Support Needed
+211,David Davis,10,10B,59.833333333333336,0.88525,On Track
+212,Sara Johnston,9,9A,66.70833333333333,0.86225,On Track
+213,Yvonne Chambers,9,9D,67.125,0.893,On Track
+214,Andrew Avila,10,10C,56.041666666666664,0.90825,On Track
+215,Matthew Moon,8,8C,57.916666666666664,0.9295,On Track
+216,Kevin Walters,10,10E,62.5,0.8185,Attendance Support Needed
+217,Brandon Bailey MD,11,11E,59.125,0.8525,On Track
+218,Shannon Rivera,10,10A,60.833333333333336,0.89525,On Track
+219,Donna Landry,8,8C,63.458333333333336,0.8905,On Track
+220,Krista Gibson,9,9E,57.875,0.89525,On Track
+221,Frank Cordova,10,10A,57.541666666666664,0.8425,Attendance Support Needed
+222,Jose Travis,8,8E,61.0,0.8925,On Track
+223,Kimberly Gutierrez,11,11C,63.958333333333336,0.8314999999999999,Attendance Support Needed
+224,Isaiah Avila,10,10D,67.58333333333333,0.841,Attendance Support Needed
+225,Olivia Harris,12,12E,60.041666666666664,0.88825,On Track
+226,Tanya Kim,8,8D,49.0,0.8947499999999999,Academic Support Needed
+227,Barbara Dudley,12,12B,62.416666666666664,0.871,On Track
+228,Cynthia Moore,10,10A,73.625,0.92,On Track
+229,Kristen Davis,11,11A,72.375,0.8955,On Track
+230,Susan Murray MD,12,12E,56.916666666666664,0.90025,On Track
+231,Kathleen Moran,9,9C,72.41666666666667,0.889,On Track
+232,Denise Davenport,11,11A,62.708333333333336,0.853,On Track
+233,Mrs. Kristen Reyes,10,10E,57.583333333333336,0.85825,On Track
+234,Katie Suarez,10,10A,67.25,0.861,On Track
+235,Desiree Tyler,10,10E,65.41666666666667,0.91525,On Track
+236,Timothy Romero,10,10D,59.375,0.8765000000000001,On Track
+237,Diane Evans,10,10D,62.916666666666664,0.8714999999999999,On Track
+238,Yvonne Burns,10,10E,57.5,0.9585,On Track
+239,Joshua Reed,9,9B,64.625,0.9135,On Track
+240,Kimberly Gibson,11,11D,61.125,0.836,Attendance Support Needed
+241,Colin Terry,9,9E,62.833333333333336,0.8614999999999999,On Track
+242,Cynthia Rowe,12,12C,56.083333333333336,0.86175,On Track
+243,Patrick Thornton,11,11E,72.5,0.8574999999999999,On Track
+244,Jasmin Alvarado,8,8C,60.333333333333336,0.8445,Attendance Support Needed
+245,Veronica Simpson,10,10B,66.25,0.8475,Attendance Support Needed
+246,Jonathan Lawrence,11,11E,61.541666666666664,0.9239999999999999,On Track
+247,Shelly Alexander,12,12C,62.958333333333336,0.88425,On Track
+248,Joyce Bowen,11,11D,64.29166666666667,0.87925,On Track
+249,Matthew Moore,11,11B,61.75,0.94325,On Track
+250,Wayne Morgan,12,12D,56.125,0.8395,Attendance Support Needed
+251,Marie Christian,9,9A,55.291666666666664,0.9349999999999999,On Track
+252,Shannon James,10,10E,65.04166666666667,0.907,On Track
+253,Nathan Malone,12,12C,65.75,0.86425,On Track
+254,Amanda Jones,8,8B,60.291666666666664,0.872,On Track
+255,Tammie Bright,10,10B,62.0,0.846,Attendance Support Needed
+256,Jessica Garcia,9,9B,71.0,0.8435,Attendance Support Needed
+257,Shelia Wallace,8,8A,58.5,0.9195,On Track
+258,Stephanie Williams,9,9D,54.291666666666664,0.88525,On Track
+259,Elaine Brooks,12,12A,65.5,0.8335,Attendance Support Needed
+260,Joseph Knight,11,11D,59.166666666666664,0.8835,On Track
+261,Carolyn Miller,12,12B,62.916666666666664,0.9025,On Track
+262,Lisa Allen,11,11D,68.5,0.90425,On Track
+263,Briana Murray,11,11B,70.08333333333333,0.903,On Track
+264,David Smith,9,9A,61.208333333333336,0.8987499999999999,On Track
+265,Stephanie Byrd,8,8D,62.833333333333336,0.85475,On Track
+266,Jeremy Reed,9,9B,64.91666666666667,0.915,On Track
+267,Margaret Coleman,12,12D,62.375,0.86775,On Track
+268,Ryan Gonzalez,8,8E,61.5,0.874,On Track
+269,John Young,9,9A,59.083333333333336,0.89575,On Track
+270,Laura Haney,11,11B,71.83333333333333,0.86325,On Track
+271,William Barrett,11,11E,71.66666666666667,0.8865000000000001,On Track
+272,Keith Jennings,12,12E,66.70833333333333,0.9115,On Track
+273,Amber Obrien,10,10D,65.79166666666667,0.88225,On Track
+274,Tanner Mitchell DDS,12,12E,51.833333333333336,0.92125,On Track
+275,Heather Fields,11,11E,67.25,0.91125,On Track
+276,Megan Le,11,11B,57.5,0.85175,On Track
+277,Sara Fuller,11,11D,65.29166666666667,0.94025,On Track
+278,Maria Parker,10,10B,63.666666666666664,0.87275,On Track
+279,Kevin Oconnor,10,10E,58.625,0.9099999999999999,On Track
+280,Edward Burgess,11,11B,64.91666666666667,0.929,On Track
+281,Carlos Ryan,10,10D,61.416666666666664,0.8385,Attendance Support Needed
+282,Kiara Mcintyre,8,8C,56.125,0.89225,On Track
+283,Dawn Summers,9,9C,63.541666666666664,0.8512500000000001,On Track
+284,Dr. Paul Morgan,10,10C,64.5,0.86625,On Track
+285,Victor Taylor,12,12A,61.875,0.91125,On Track
+286,Shannon Ramsey,9,9B,56.333333333333336,0.93125,On Track
+287,Tracy Ballard,9,9D,55.208333333333336,0.8747499999999999,On Track
+288,Richard Smith,9,9B,59.125,0.8585,On Track
+289,Jordan Chambers,8,8D,66.70833333333333,0.877,On Track
+290,Lauren Carson,11,11C,67.79166666666667,0.8835,On Track
+291,Ashley Hall,12,12D,64.33333333333333,0.867,On Track
+292,Stephen Hoffman,11,11A,66.83333333333333,0.839,Attendance Support Needed
+293,Connie Brown,9,9D,58.0,0.8654999999999999,On Track
+294,Susan Turner,11,11E,57.333333333333336,0.9159999999999999,On Track
+295,Charles Shah,8,8E,66.125,0.847,Attendance Support Needed
+296,Johnathan Davis,11,11D,63.75,0.8714999999999999,On Track
+297,Brandy Chavez,8,8C,72.875,0.8455,Attendance Support Needed
+298,Natalie Bautista,10,10D,56.708333333333336,0.8425,Attendance Support Needed
+299,Patrick Moore,11,11E,61.708333333333336,0.88075,On Track
+300,Brett Burns,12,12E,59.291666666666664,0.89425,On Track
